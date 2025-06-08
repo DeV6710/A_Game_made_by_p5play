@@ -1,0 +1,20 @@
+
+body
+{
+
+	background-image:url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/c221c957092339.59c8dfa58d6d7.jpg");
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+	color:white;
+	margin:200px;
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-direction:column-reverse;
+}
+
+
+
+
+
